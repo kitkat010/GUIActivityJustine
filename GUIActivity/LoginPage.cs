@@ -12,8 +12,8 @@ namespace GUIActivity
 {
     public partial class LoginPage: Form
     {
-        private string mockUsername = "Justine Sap";
-        private string mockPassword = "111";
+        private string mockUsername = "keneth";
+        private string mockPassword = "123";
         private int loginAttempts = 0;
         private const int maxAttempts = 5;
         public LoginPage()

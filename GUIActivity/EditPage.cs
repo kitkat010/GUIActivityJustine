@@ -61,5 +61,15 @@ namespace GUIActivity
         {
 
         }
+
+        private void contactTxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void nameTxt_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
